@@ -30,11 +30,11 @@
     font-size: 1.3rem;
 }
 .card p{
-    color: #4a5568;
+    color: black
 }
 /* footer */
 footer{
-    background-color: aqua;
+    background-color: aquamarine;
     color:black;
     text-align: center;
     padding: 1.5rem;
@@ -54,6 +54,7 @@ font-size: 2.5rem;
 }
 .about h2, .gallery h2, .experiences h2{
     font-size: 2rem;
+    color: aqua;
 }
 .experience-cards{
 grid-template-columns: 1fr;
@@ -96,13 +97,13 @@ section div{
 section div h1{
     font-size: 2.5em;
     font-family: 'Times New Roman', Times, serif;
-    color: blue;
+    color:blue;
     margin: 0 0 10px;
 }
 section div p{
     font-size: 1.2em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifg;
     margin: 0;
-    color: red;
+    color: black;
     line-height: 1.5;
 }
