@@ -39,10 +39,10 @@ footer{
     text-align: center;
     padding: 1.5rem;
 }
-@media (max-width;768px)
+@media (max-width: 768px){
 .hero-content h1{
 font-size: 2.5rem;
-}
+}}
 .hero-content .subtitle{
     font-size: 1.2rem;
 }
@@ -91,7 +91,7 @@ body{
 section div{
     text-align: center;
     padding: 20px;
-    border: 3px solid white:
+    border: 3px solid white;
     margin: auto;
 }
 section div h1{
