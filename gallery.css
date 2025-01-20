@@ -25,12 +25,12 @@
     transform: translateY(-5px);
 }
 .card h3{
-    color: black;
+    color: blue
     margin-bottom: 1rem;
     font-size: 1.3rem;
 }
 .card p{
-    color: black
+    color: black;
 }
 /* footer */
 footer{
@@ -97,7 +97,7 @@ section div{
 section div h1{
     font-size: 2.5em;
     font-family: 'Times New Roman', Times, serif;
-    color:blue;
+    color:gold;
     margin: 0 0 10px;
 }
 section div p{
